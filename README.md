@@ -1,6 +1,6 @@
 # Wellness Tracking System
 
-The Wellness Tracking System is a web application developed using Java Spring Boot, Thymeleaf, and a MySQL database. It provides a platform for users to track their wellness journey, monitor progress, and visualize data using interactive charts and graphs. The system includes features such as user registration, login, goal setting, data entry, and personalized dashboards.
+The Wellness Tracking System is a web application developed using Java Spring Boot, Thymeleaf, and a PostgreSQL database. It provides a platform for users to track their wellness journey, monitor progress, and visualize data using interactive charts and graphs. The system includes features such as user registration, login, goal setting, data entry, and personalized dashboards.
 
 ## Features
 
